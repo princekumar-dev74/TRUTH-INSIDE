@@ -15,7 +15,7 @@ Built with love using React, Next.js, and Tailwind CSS.
 
 ## 📂 How to Use
 
-1. Clone the repo 
+1. Clone the repo ( https://github.com/princekumar-dev74/TRUTH-INSIDE.git )
 2. Run npm install
 3. Start the project with npm run dev
 4. Open [http://localhost:3000](http://localhost:3000) in your browser
